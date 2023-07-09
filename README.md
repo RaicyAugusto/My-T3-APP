@@ -25,9 +25,6 @@
   <p>
     Este projeto é uma aplicação "t3-app", que combina o uso de Prisma como ORM, Next.js para a construção do frontend, TRPC para a criação da API e Tailwind CSS para estilização.
   </p>
-  <p>
-    A estrutura do projeto é organizada da seguinte maneira:
-  </p>
   <h2>Como Executar o Projeto</h2>
   <ol>
     <li>Clone este repositório em sua máquina local.</li>
